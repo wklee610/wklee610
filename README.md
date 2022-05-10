@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on interesting project
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
-    - email : wklee610@naver.com
-    - isnta : wooonki_96
+    - EMAIL : wklee610@naver.com
+    - INSTA : wooonki_96
 
 
