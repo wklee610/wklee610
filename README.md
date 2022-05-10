@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at NaverLabs
+- 🔭 I’m currently working at NAVER LABS Corp.
 - 🎓 Where I have worked at
     - Ncsoft / AI Biz / Data Platform (2021)
     - Neowiz / Bless team / Data Engineer (2018)
