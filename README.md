@@ -6,7 +6,7 @@
     - Ncsoft / AI Biz / Data Platform (2021)
     - Neowiz / Bless team / Data Engineer (2018)
     - Naver Corporation (2016)
-- 🌱 I’m currently learning Database
+- 🌱 I’m currently learning Database, ML, DL
 - 👯 I’m looking to collaborate on interesting project
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
