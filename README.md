@@ -1,11 +1,16 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on auto-driving data engineering
+- 🔭 I’m currently working at NaverLabs
+- 🎓 Where I have worked at
+    - Ncsoft / AI Biz / Data Platform (2021)
+    - Neowiz / Bless team / Data Engineer (2018)
+    - Naver Corporation (2016)
 - 🌱 I’m currently learning Database
 - 👯 I’m looking to collaborate on interesting project
-- 💬 Ask me --> 'http://dontasktoask.com/'
-- 📫 How to reach me: wklee610@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me anything you want!
+- 📫 How to reach me: 
+    - email : wklee610@naver.com
+    - isnta : wooonki_96
+
 
