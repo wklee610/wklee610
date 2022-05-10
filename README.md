@@ -12,9 +12,10 @@
 - 📫 How to reach me: 
     - EMAIL : wklee610@naver.com
     - INSTA : wooonki_96
-
+#
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Apache Hadoop-FDEE21?style=flat-square&logo=ApacheHadoop&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Apache Spark-FF5C83?style=flat-square&logo=Apache Spark&logoColor=white"/></a> &nbsp
@@ -26,5 +27,14 @@
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp </p>
 
+<div align=center>
+ 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wklee610&layout=compact&theme=tokyonight)
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wklee610&show_icons=true&theme=tokyonight)
+
+
+
+</div>
