@@ -30,9 +30,7 @@
  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wklee610&layout=compact&theme=buefy)
-#
-![Hajun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wklee610&show_icons=true&theme=buefy)
+
 
 
 
