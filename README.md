@@ -5,7 +5,7 @@
 - 🎓 Where I have worked at
     - NCSOFT / AI Biz / Data Platform (2021)
     - Neowiz / Bless team / Data Engineer (2018)
-    - Naver Corporation (2016)
+    - Naver Corporation (2015)
 - 🌱 I’m currently learning Database, ML, DL
 - 👯 I’m looking to collaborate on interesting project
 - 💬 Ask me anything you want!
