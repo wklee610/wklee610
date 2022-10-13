@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently doing internship at NAVER LABS Corp.
+- 🔭 I’m currently senior university student
 - 🎓 Where I have worked at
+    - NAVER LABS Corp / Autonomous group / Perception / Software Develop Engineer / Data Engineer (2022)
     - NCSOFT / AI Biz / Data Platform (2021)
     - Neowiz / Bless team / Data Engineer (2018)
     - Naver Corporation (2015)
