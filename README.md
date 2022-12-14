@@ -1,4 +1,4 @@
-### Hi there 👋             ![](https://komarev.com/ghpvc/?username=wklee610)
+### Hi there 👋             
 
 - 🔭 I’m currently senior university student
 - 🎓 Where I have worked at
@@ -12,6 +12,10 @@
 - 📫 How to reach me: 
     - EMAIL : wklee610@naver.com
     - INSTA : wooonki_96
+  
+   
+![](https://komarev.com/ghpvc/?username=wklee610)
+
 #
 <h3 align="center"><b>🛠 Technical Stack 🛠</b></h3>
 </br>
