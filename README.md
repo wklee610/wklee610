@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋             ![](https://komarev.com/ghpvc/?username=wklee610)
 
 - 🔭 I’m currently senior university student
 - 🎓 Where I have worked at
