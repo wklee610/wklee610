@@ -1,6 +1,6 @@
 ### Hi there 👋             
 
-- 🔭 I’m currently senior university student
+- 🔭 I’m currently finding a job!
 - 🎓 Where I have worked at
     - NAVER LABS Corp / Autonomous group / Perception / Software Development Engineer / Data Engineer (2022)
     - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
