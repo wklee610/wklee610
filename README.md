@@ -34,9 +34,8 @@
  
 
 
-
 #
-![Hajun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wklee610&show_icons=true&theme=buefy)
+![Hajun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=wklee610&show_icons=true&theme=buefy)
 
 
 
