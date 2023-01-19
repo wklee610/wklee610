@@ -11,7 +11,8 @@
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
     - EMAIL : wklee610@naver.com
-    - INSTA : wooonki_96
+    - INSTA : wooonki_96  
+    - BLOG : https://wklee610.github.io
   
    
     ![](https://komarev.com/ghpvc/?username=wklee610)
