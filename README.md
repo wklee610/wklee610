@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp </p>
 
 <div align=center>
-.
  
 
 
