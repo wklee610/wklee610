@@ -13,6 +13,7 @@
     - EMAIL : wklee610@naver.com
     - INSTA : wooonki_96  
     - BLOG : https://wklee610.github.io
+    - LINKEDIN : https://www.linkedin.com/in/hajunlee/
   
    
     ![](https://komarev.com/ghpvc/?username=wklee610)
