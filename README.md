@@ -1,19 +1,20 @@
 ### Hi there 👋             
 
-- 🔭 I’m currently finding a job!
+- 🔭 I’m currently finding a job related Data Engineering!
 - 🎓 Where I have worked at
     - NAVER LABS Corp / Autonomous group / Perception / Software Development Engineer / Data Engineer (2022)
     - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
     - Neowiz / Bless team / Data Engineer (2018)
     - Naver Corporation (2016)
-- 🌱 I’m currently learning Database, ML, DL
-- 👯 I’m looking to collaborate on interesting project
+- 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning & Django
+- 👯 I’m looking to collaborate on open source project (Python or Java)
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
     - EMAIL : wklee610@naver.com
-    - INSTA : wooonki_96  
-    - BLOG : https://wklee610.github.io
     - LINKEDIN : https://www.linkedin.com/in/hajunlee/
+    - BLOG : https://wklee610.github.io
+    - INSTA : wooonki_96  
+    
   
    
     ![](https://komarev.com/ghpvc/?username=wklee610)
