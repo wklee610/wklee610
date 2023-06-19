@@ -6,7 +6,7 @@
     - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
     - Neowiz / Bless team / Data Engineer (2018)
     - Naver Corporation (2016)
-- 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning & Django
+- 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning & REST API
 - 👯 I’m looking to collaborate on open source project (Python or Java)
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
