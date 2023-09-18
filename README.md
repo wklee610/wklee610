@@ -1,6 +1,6 @@
 ### Hi there 👋             
 
-- 🔭 I’m currently finding a job related Data Engineering!
+- 🔭 I’m currently working in NCSOFT / Applied AI Lab / Data Platform / AI Engineer
 - 🎓 Where I have worked at
     - NAVER LABS Corp / Autonomous group / Perception / Software Development Engineer / Data Engineer (2022)
     - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
@@ -11,6 +11,7 @@
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
     - EMAIL : wklee610@naver.com
+    - EMAIL2 : hajun610@ncsoft.com
     - LINKEDIN : https://www.linkedin.com/in/hajunlee/
     - BLOG : https://wklee610.github.io
     
