@@ -1,45 +1,53 @@
-### Hi there 👋             
+### HELLO 👋           
 
-- 🔭 I’m currently working in NCSOFT / Applied AI Lab / Data Platform / AI Engineer
+- 🔭 I’m currently working in NCSOFT / VARCO Development Division / Service Platform / AI Engineer
 - 🎓 Where I have worked at
+    - NCSOFT / VARCO Development Division / Backend / AI Engineer (2024)
+    - NCSOFT / Applied AI Lab / Data Platform / Data Engineer / AI Engineer (2023)
     - NAVER LABS Corp / Autonomous group / Perception / Software Development Engineer / Data Engineer (2022)
     - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
     - Neowiz / Bless team / Data Engineer (2018)
     - Naver Corporation (2016)
-- 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning & REST API
-- 👯 I’m looking to collaborate on open source project (Python or Java)
+- 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning :)
+- 👯 I’m looking to collaborate on open source project :)
 - 💬 Ask me anything you want!
 - 📫 How to reach me: 
     - EMAIL : wklee610@naver.com
     - EMAIL2 : hajun610@ncsoft.com
     - LINKEDIN : https://www.linkedin.com/in/hajunlee/
     - BLOG : https://wklee610.github.io
-    
-  
-   
-    ![](https://komarev.com/ghpvc/?username=wklee610)
 
-#
-<h3 align="center"><b>🛠 Technical Stack 🛠</b></h3>
-</br>
+<h4 align="center"> ➖ </h4>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwklee610&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+<h4 align="center"> ➖ </h4>
+<h3 align="center"><b> Technical Stack </b></h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Apache Hadoop-FDEE21?style=flat-square&logo=ApacheHadoop&logoColor=black"/></a> &nbsp
-<img src="https://img.shields.io/badge/Apache Spark-FF5C83?style=flat-square&logo=Apache Spark&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black"/></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=black"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp </p>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" width="50" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,bash,fastapi,opencv,pytorch&perline=7"/>
 
-<div align=center>
- 
-
-
-#
-[![Hajun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wklee610)](https://github.com/wklee610/github-readme-stats)
-
-
-
-</div>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp&perline=7"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,redis,postgres,sqlite,mongodb&perline=7"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jenkins&perline=7"/>
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,elasticsearch,grafana,kafka,prometheus&perline=7"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="50" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,ros,windows&perline=7"/>
+</p>
