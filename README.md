@@ -31,8 +31,10 @@
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" width="50" height="50"/>
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,bash,fastapi,opencv,pytorch&perline=7"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,bash,go&perline=7"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,opencv,pytorch&perline=7"/>
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp&perline=7"/>
