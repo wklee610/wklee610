@@ -1,20 +1,15 @@
-### HELLO 👋           
 
-- 🔭 I’m currently working in NCSOFT / VARCO Development Division / Service Platform / AI Engineer, MLOps Engineer
-- 🎓 I have worked at
-    - NCSOFT / VARCO Development Division / Backend / AI Engineer (2024)
-    - NCSOFT / Applied AI Lab / Data Platform / Data Engineer / AI Engineer (2023)
-    - NAVER LABS Corp / Autonomous group / Perception / Software Development Engineer / Data Engineer (2022)
-    - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
-- 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning :)
-- 👯 I’m looking to collaborate on open source project :)
-- 💬 Ask me anything you want!
-- 📫 How to reach me: 
-    - EMAIL : wklee610@naver.com
-    - EMAIL2 : hajun610@ncsoft.com
-    - LINKEDIN : https://www.linkedin.com/in/hajunlee/
-    - BLOG : https://wklee610.github.io
+<h4 align="center"> ➖ </h4>
+<h4 align="center"> 💼 Experience </h4>
+<div align="center">  
 
+|Company|Position|Department|Duration|
+|:----------------:|:----------------:|:----------------:|:----------------:|
+|NCSOFT|AI Engineer|VARCO Development|2024.01 ~ Present|
+|NCSOFT|AI Engineer|Appllied AI Lab, Data Platform|2024.09 ~ 2024.12|
+|Naver Labs|ML SDE Intern|Autonomous Group, Perception|2022.04 ~ 2022.10|
+|NCSOFT|AI Engineer|AI Biz, Data Platform|2021.06 ~ 2021.12|  
+</div>
 <h4 align="center"> ➖ </h4>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwklee610&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
