@@ -1,13 +1,11 @@
 ### HELLO 👋           
 
 - 🔭 I’m currently working in NCSOFT / VARCO Development Division / Service Platform / AI Engineer, MLOps Engineer
-- 🎓 Where I have worked at
+- 🎓 I have worked at
     - NCSOFT / VARCO Development Division / Backend / AI Engineer (2024)
     - NCSOFT / Applied AI Lab / Data Platform / Data Engineer / AI Engineer (2023)
     - NAVER LABS Corp / Autonomous group / Perception / Software Development Engineer / Data Engineer (2022)
     - NCSOFT / AI Biz / Data Platform / Data Engineer / AI Engineer (2021)
-    - Neowiz / Bless team / Data Engineer (2018)
-    - Naver Corporation (2016)
 - 🌱 I’m currently learning Data Engineering & Machine Learing & Deep Learning :)
 - 👯 I’m looking to collaborate on open source project :)
 - 💬 Ask me anything you want!
