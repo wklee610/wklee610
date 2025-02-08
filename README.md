@@ -5,7 +5,8 @@
 
 |Company|Position|Department|Duration|
 |:----------------:|:----------------:|:----------------:|:----------------:|
-|NCSOFT|AI Engineer|VARCO Development|2024.01 ~ Present|
+|NC AI|AI Engineer|Platform Development|2025.01 ~ Present|
+|NCSOFT|AI Engineer|VARCO Development|2024.01 ~ 2025.01|
 |NCSOFT|AI Engineer|Applied AI Lab, Data Platform|2024.09 ~ 2024.12|
 |Naver Labs|ML SDE Intern|Autonomous Group, Perception|2022.04 ~ 2022.10|
 |NCSOFT|AI Engineer|AI Biz, Data Platform|2021.06 ~ 2021.12|  
